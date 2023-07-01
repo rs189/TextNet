@@ -1,0 +1,13 @@
+matplotlib
+pydot
+pydotplus
+graphviz
+customtkinter
+
+tensorflow
+numpy
+
+cuda-python
+#nvidia-cuda-runtime-cu11
+#nvidia-cudnn-cu11
+#--extra-index-url https://pypi.ngc.nvidia.com
